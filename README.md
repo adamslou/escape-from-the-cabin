@@ -13,3 +13,10 @@ Use Make to compile: `$ make`
 ## Usage
 
 Run executable: `$ ./main`
+
+## Example Usage
+
+![screenshot1](img/escape_from_the_cabin1.png)
+![screenshot2](img/escape_from_the_cabin2.png)
+![screenshot3](img/escape_from_the_cabin3.png)
+![screenshot4](img/escape_from_the_cabin4.png)
