@@ -4,7 +4,7 @@ Escape from the Cabin is a text-based adventure game written in C++.  It is an R
 
 ## System Requirements
 
-Linux, g++, c++11, GNU make
+Linux, g++, c++11, GNU Make
 
 ## Compilation
 
